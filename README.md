@@ -1,1 +1,1 @@
-# NY-hat-detector-tf
+# LA-hat-detector-tf
